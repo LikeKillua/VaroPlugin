@@ -49,7 +49,7 @@ public class ConfigHandler {
 
 		for (SectionConfiguration section : sections) {
 			if (configurations.containsKey(section.getFolder() + "/" + section.getName())) {
-				System.out.println(Main.getConsolePrefix() + "PAUL NEIN");
+				System.out.println(Main.getConsolePrefix() + " Junge was machst du da!");
 				Bukkit.getServer().shutdown();
 			}
 
