@@ -1,6 +1,5 @@
 name: Varo
-author: Cuuky
-authors: [Korne127, UeberallGebannt]
+author: LikeKillua
 version: 4.5.2
 softdepend: [CuukyFrameWork, JDA, LabyModAPI, TelegramPlugin, PermissionsEx, LabyModAPI]
 api-version: 1.13
